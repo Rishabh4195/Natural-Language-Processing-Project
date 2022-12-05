@@ -26,4 +26,4 @@ In this step use of Pandas pipeline feature allows us to string together various
 I used LinearSVC for deplotment because it gives higher accuracy.
 Run the model and checked model accuracy with unknown data and gives very nice accuracy and my model worked good.
 After that creating PKL file for use in deployment.
-Final step of deployment did in PyCharm IDE by use of ~stramlit~.
+Final step of deployment did in PyCharm IDE by use of \stramlit\.
