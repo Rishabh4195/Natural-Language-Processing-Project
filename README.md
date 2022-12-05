@@ -1,5 +1,6 @@
 # Natural-Language-Processing-Project
 In this project I predicted hotel reviews positive or negative on the basis of ratings.
+
 I performed different stpels like importing libraries and dataset, EDA, Visualization, data cleaning and Pre-Processing(tokenization, stemming, Lamnatiztion, wordcloud etc), Sentimental analysis, vectorization and model building with deployment.
 
 Name of libraries are pandas, numpy, seaborn, matplolib, sklearn, textblob for sentimental analysis, nltk for removing stop words, stemming, lemnatization, wordcloud etc.
@@ -7,7 +8,7 @@ Name of libraries are pandas, numpy, seaborn, matplolib, sklearn, textblob for s
 ### EDA & Visualization
 In step of EDA and visualization creating bixplot, lineplot, barplot, density plot, countplot, etc and checking statastical values, null values if availalbe in data set, removing duplicates etc.
 
-### data cleaning and pre-processing-
+### Data Cleaning and Pre-Processing-
 (1) cleaning - removing numerical values, sysmobls etc
 (2) pre-processing - lowering words, stemming on words and lamnatization of words, also removing stop words in given dataset.
 
