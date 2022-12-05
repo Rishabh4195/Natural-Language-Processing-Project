@@ -14,17 +14,27 @@ In step of EDA and visualization creating bixplot, lineplot, barplot, density pl
 
 ### Model Building-
 In this step created different models by use of sklearn library.
-* List of Models
+* List of Models:-
+
   (1) Logistic regression
+  
   (2) Random Forest
+  
   (3) Naive Bayes
+  
   (4) MultinomialNB
+  
   (5) LinearSVC
+  
 Also checked model accuracy by accuracy score, create confusion matrix and classification report of each models.
 
 ### Deployment
 In this step use of Pandas pipeline feature allows us to string together various user-defined Python functions in order to build a pipeline of data processing. In pipeline use Logistic Regression.
+
 I used LinearSVC for deplotment because it gives higher accuracy.
+
 Run the model and checked model accuracy with unknown data and gives very nice accuracy and my model worked good.
+
 After that creating PKL file for use in deployment.
-Final step of deployment did in PyCharm IDE by use of _streamlit_.
+
+Final step of deployment did in PyCharm IDE by use of _streamlit_ , and creating streamlit app with sentimental analysis.
